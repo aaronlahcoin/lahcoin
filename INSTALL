@@ -1,0 +1,9 @@
+Building LahCoin
+
+See doc/readme-qt.rst for instructions on building LahCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LahCoin.
+
+See doc/build-*.txt for instructions on building LahCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of LahCoin.

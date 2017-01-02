@@ -1,2 +1,0 @@
-# lahcoin
-cryptocurrency
